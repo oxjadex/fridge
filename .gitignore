@@ -1,0 +1,7 @@
+node_modules/
+sync.json
+t_*.html
+s_*.png
+test_out.html
+seed.json
+shot.py
